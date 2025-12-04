@@ -1,0 +1,29 @@
+.heading {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+
+.paragraph {
+    color: green;
+    font-size: 16px;
+    text-align: justify;
+}   
+
+#i1 {
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#i2 {
+    background-color: lightblue;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#i3 {
+    background-color: lightgreen;
+    padding: 10px;
+    border: 2px solid black;
+}
